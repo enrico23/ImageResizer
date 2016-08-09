@@ -1,1 +1,1 @@
-C# Form Application to resize images preserving proportions
+C# Form Application to resize images preserving proportions.
